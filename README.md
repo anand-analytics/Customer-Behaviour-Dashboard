@@ -11,6 +11,9 @@ A leading retail company noticed changes in purchasing patterns across demograph
 * **MySQL:** Advanced data analysis and answering business questions.
 * **Power BI:** Building a sleek, interactive dashboard to track KPIs.
 
+## 🔄 Workflow Diagram
+![Workflow Diagram](https://github.com/anand-analytics/Customer-Behaviour-Dashboard/blob/main/Workflow.png)
+
 ## 🔄 Project Workflow
 
 ### 1. Data Preparation & EDA (Python)
@@ -40,4 +43,5 @@ A professional dashboard was built to allow management to track KPIs instantly.
 * **Loyalty Gap:** While repeat buyers are numerous, a significant portion has not yet subscribed to the loyalty program, suggesting the subscription offer may need optimization.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/anand-analytics/Customer-Behaviour-Dashboard/blob/main/Dashboard.png)
+
