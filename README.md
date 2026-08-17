@@ -43,5 +43,5 @@ A professional dashboard was built to allow management to track KPIs instantly.
 * **Loyalty Gap:** While repeat buyers are numerous, a significant portion has not yet subscribed to the loyalty program, suggesting the subscription offer may need optimization.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://github.com/anand-analytics/Customer-Behaviour-Dashboard/blob/main/Dashboard.png)
+![Dashboard Screenshot](https://github.com/anand-analytics/Customer-Behaviour-Dashboard/blob/main/Images/Dashboard.png)
 
