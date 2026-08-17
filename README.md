@@ -12,7 +12,7 @@ A leading retail company noticed changes in purchasing patterns across demograph
 * **Power BI:** Building a sleek, interactive dashboard to track KPIs.
 
 ## 🔄 Workflow Diagram
-![Workflow Diagram](https://github.com/anand-analytics/Customer-Behaviour-Dashboard/blob/main/Workflow.png)
+![Workflow Diagram](https://github.com/anand-analytics/Customer-Behaviour-Dashboard/blob/main/Images/Workflow.png)
 
 ## 🔄 Project Workflow
 
